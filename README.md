@@ -2,7 +2,7 @@
 Ejercicio de generación de laberintos aplicando orientación a objetos. 
 Se trata de generar un laberinto, con un tesoro en su interior y un punto de partida en alguno de los extremos. 
 Donde el punto de partida viene representado por "o", el tesoro a encontrar viene representado por  
-'''
+```
 \\//||\\\/_|\\|//_\\\\||\//|_\_/_\\/_/_ 
  |/\|/_\\\\//\//_/\\_\__|/\/\_/_\|\|\|/\ 
  _|///\|__|/\\\\\\___/|/__/__/_|//|_||_\ 
@@ -42,6 +42,6 @@ Donde el punto de partida viene representado por "o", el tesoro a encontrar vien
  ||_/_/|__|_//\\|||\\\\__/|\/__|||\|_//_ 
  /|\__\//|//\|/\_\|\\|_|_/_/|||_\/___/// 
  \\____|___|_|/|__\||_\\|\/\__/|_\|\|\||
-'''
+```
 
 
