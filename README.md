@@ -48,3 +48,4 @@ _________________________________________
 ```
 Una vez conseguida la generación del laberinto por consola, ampliar la complejidad del mismo dando soporte a otros caracteres ascii para la representación de las paredes ("|","_"," ") y grabar el laberinto en un fichero de texto (codificación utf-8) a su elección. 
 
+Es importante destacar que pretendemos hacer una versión online del generador que use gráficos reales y la nueva clase canvas en un futuro, por lo que conviene representar adecuadamente los elementos del problema como objetos, que en un futuro habrá que pintar gráficamente...
