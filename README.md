@@ -1,7 +1,7 @@
 # ObjectMaze
 Ejercicio de generación de laberintos aplicando orientación a objetos. 
 Se trata de generar un laberinto en con, con un tesoro en su interior y un punto de partida en alguno de los extremos. 
-El punto de partida viene representado por "o", el tesoro a encontrar viene representado por "*".  Las paredes del laberinto vendrán representadas por carácteres / y \ elegidos aleatoriamente.
+El punto de partida viene representado por "o", el tesoro a encontrar viene representado por "*".  Las paredes del laberinto vendrán representadas por carácteres '/' y '\' elegidos aleatoriamente. Las paredes extremas se representarán con los caracteres "|" para los laterales y "_" para el techo y el suelo
 Ejemplo:
 ```
 ___o_____________________________________
