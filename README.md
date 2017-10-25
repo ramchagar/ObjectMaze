@@ -46,5 +46,5 @@ ___o_____________________________________
 |\\\\\/\////\/\/\//\\//\\\\\/\\////\\///|
 _________________________________________
 ```
-Una vez conseguida la generación del laberinto por consola, ampliar la complejidad del mismo dando soporte a otros caracteres ascii para la representación de las paredes (caracteres ascii desde el 191 al 197) y grabar el laberinto en un fichero de texto (codificación utf-8); 
+Una vez conseguida la generación del laberinto por consola, ampliar la complejidad del mismo dando soporte a otros caracteres ascii para la representación de las paredes ("|","_"," ") y grabar el laberinto en un fichero de texto (codificación utf-8) a su elección. 
 
